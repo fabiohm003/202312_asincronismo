@@ -10,5 +10,8 @@
     "javascript"
   ],
   "author": "fabio hernandez mancipe",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
